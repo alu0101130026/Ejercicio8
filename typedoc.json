@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/pokemon.ts",
+    "./src/pokedex.ts",
+  ],
+  "out": "./docs"
+}
